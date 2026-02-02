@@ -4,7 +4,7 @@ theme = "hugo-profile"
 
 [params]
   # Biographie courte
-  title = "Neil Rueplayer, PhD"
+  title = "Neil Rueplayer"
   subtitle = "Associate Professor | Department of Computer Applications & Mathematical Sciences"
   # Cette description courte apparaît souvent sous le nom
   description = "North-Eastern Hill University (NEHU), Shillong, India"
