@@ -39,7 +39,8 @@
           {{ end }}
           <article class="page-content  p-2">
           {{ .Content | emojify }}
-          </article>
+          {{ partial "math.html" . }}
+	  </article>
         </div>
       </div>
       <div class="col-sm-12 col-md-12 col-lg-3">
